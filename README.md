@@ -24,7 +24,7 @@ Beats the default 'no syntax highlighting' in Pug files, though.
 ## What Is Going On Here
 
 The `filetype_extensions.conf` file tells Geany that we have a new filetype called
-'Pug' using the .pug extention, and that it is a kind of markup language.
+'Pug' using the .pug extension, and that it is a kind of markup language.
 
 This causes Geany to recognise Pug files.
 
